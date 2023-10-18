@@ -8,6 +8,6 @@
 > Please do support the original author ([Wimer Hazenberg](https://monokai.nl/)) and [buy the license](https://monokai.pro/). ❤️ Thank you!
 
 > **Note**
-> Visit [this](google.com) to view the web application.
+> Visit [this](https://mono-cracker.vercel.app/) to view the web application.
 > 
 > The application is made with the help of ReactJS and Typescript. 
